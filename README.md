@@ -1,4 +1,4 @@
-# geojson2shp
+# geojson2shp-utf8
 Convert GeoJSON into Shapefile in pure JavaScript
 
 ⚠️ Early version ⚠️
